@@ -12,7 +12,7 @@ export default function SignIn() {
           <Heading fontSize="25px">Dados empresa</Heading>
           <HStack spacing="2" mt="6" align="flex-start" justify="start" textAlign="start">
             <Input label="Responsável" name="responsavel" />
-            <Input label="CPF/CNPJ Responsável" name="cpf" />
+            <Input label="CPF/CNPJ Responsável" name="cpf"  />
           </HStack>
           <HStack spacing="2" mt="6" align="flex-start" justify="start" textAlign="start">
             <Input label="Endereço (rua, número)" name="endereco" />
